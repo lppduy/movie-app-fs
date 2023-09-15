@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# macOS
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# Distribution files
+/dist/
+/out/
+
+# Logs
+/logs/
+
+# OS generated files
+Thumbs.db
